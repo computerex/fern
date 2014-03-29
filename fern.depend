@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1396061255 source:c:\projects\fern\main.cpp
+	<stdio.h>
+	<vector>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	"include/GL/freeglut.h"
+	"matrix.h"
+
+976695772 c:\projects\fern\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1354328582 c:\projects\fern\matrix.h
+
+1368294560 c:\projects\fern\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368294560 c:\projects\fern\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1368294560 c:\projects\fern\include\gl\freeglut_ext.h
+	<stdarg.h>
+
